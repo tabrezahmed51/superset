@@ -23,7 +23,7 @@
 		"@trpc/client": "11.16.0",
 		"@trpc/server": "11.16.0",
 		"@trpc/tanstack-react-query": "11.16.0",
-		"better-auth": "1.7.7",
+		"better-auth": "1.7.28",
 		"date-fns": "4.1.0",
 		"drizzle-orm": "0.45.2",
 		"import-in-the-middle": "2.0.1",
@@ -37,7 +37,7 @@
 		"require-in-the-middle": "8.0.1",
 		"server-only": "0.0.1",
 		"superjson": "2.2.6",
-		"zod": "4.3.6"
+		"zod": "4.6.6"
 	},
 	"devDependencies": {
 		"@superset/typescript": "workspace:*",
