@@ -44,10 +44,10 @@
 		"@trpc/client": "11.16.0",
 		"@trpc/server": "11.16.0",
 		"ai": "6.0.141",
-		"hono": "4.13.16",
+		"hono": "4.13.23",
 		"mastracode": "0.18.1",
 		"superjson": "2.2.6",
-		"zod": "4.3.6"
+		"zod": "4.6.6"
 	},
 	"peerDependencies": {
 		"@tanstack/react-query": "5.100.9",

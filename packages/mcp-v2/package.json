@@ -26,10 +26,10 @@
 		"@superset/db": "workspace:*",
 		"@superset/shared": "workspace:*",
 		"@superset/trpc": "workspace:*",
-		"better-auth": "1.7.7",
+		"better-auth": "1.7.28",
 		"drizzle-orm": "0.45.2",
 		"superjson": "2.2.6",
-		"zod": "4.3.6"
+		"zod": "4.6.6"
 	},
 	"devDependencies": {
 		"@superset/typescript": "workspace:*",
